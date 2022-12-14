@@ -1,1 +1,2 @@
 Console.WriteLine("Main Feature");
+Console.WriteLine("Common Feature 2");
